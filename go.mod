@@ -1,4 +1,4 @@
-module github.com/datamin-io/salesforce-client
+module github.com/ylem-co/salesforce-client
 
 go 1.21
 
